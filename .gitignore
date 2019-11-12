@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.xlsx
+__pycache__/
+credentials.json
+csv/
+token.pickle
